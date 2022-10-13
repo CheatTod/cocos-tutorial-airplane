@@ -1,2 +1,0 @@
-# airplane
-video tutorial airplane
