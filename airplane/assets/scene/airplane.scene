@@ -10,7 +10,7 @@
   },
   {
     "__type__": "cc.Scene",
-    "_name": "airplane",
+    "_name": "scene",
     "_objFlags": 0,
     "_parent": null,
     "_children": [
@@ -43,9 +43,13 @@
     },
     "autoReleaseAssets": false,
     "_globals": {
+<<<<<<< HEAD
       "__id__": 95
+=======
+      "__id__": 14
+>>>>>>> parent of 326ffd9 (realize background scrolling)
     },
-    "_id": "1078973b-67f7-4366-8a61-e2ddd39429c8"
+    "_id": "d9e4d0e1-65db-46ce-a9ba-3ee6f83982f1"
   },
   {
     "__type__": "cc.Node",
@@ -147,11 +151,15 @@
       }
     ],
     "_active": true,
+<<<<<<< HEAD
     "_components": [
       {
         "__id__": 11
       }
     ],
+=======
+    "_components": [],
+>>>>>>> parent of 326ffd9 (realize background scrolling)
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -356,6 +364,7 @@
     "_lightmapSize": 64
   },
   {
+<<<<<<< HEAD
     "__type__": "96ab9fWUgFHu4WZkXRj7lzH",
     "_name": "",
     "_objFlags": 0,
@@ -428,6 +437,11 @@
     "__type__": "cc.MountedComponentsInfo",
     "targetInfo": {
       "__id__": 16
+=======
+    "__type__": "cc.SceneGlobals",
+    "ambient": {
+      "__id__": 15
+>>>>>>> parent of 326ffd9 (realize background scrolling)
     },
     "components": [
       {
@@ -3000,6 +3014,7 @@
       "__id__": 96
     },
     "shadows": {
+<<<<<<< HEAD
       "__id__": 97
     },
     "_skybox": {
@@ -3007,6 +3022,15 @@
     },
     "fog": {
       "__id__": 99
+=======
+      "__id__": 16
+    },
+    "_skybox": {
+      "__id__": 17
+    },
+    "fog": {
+      "__id__": 18
+>>>>>>> parent of 326ffd9 (realize background scrolling)
     }
   },
   {
